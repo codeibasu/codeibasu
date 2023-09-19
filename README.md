@@ -1,7 +1,7 @@
 [![MasterHead](https://cdnb.artstation.com/p/assets/images/images/036/927/659/original/piotr-gamingroom6-export.gif)](https://github.com/codecxAb)
 <h1 align="center">Hi 👋, I'm Anurag Basu</h1>
 <h3 align="center">"Unlocking Insights Through Code: Exploring Data, Solving Problems, and Innovating Together"</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fvector-art%2F15316852-app-developer-at-work-flat-concept-vector-illustration-editable-2d-cartoon-character-on-white-for-web-design-coding-creative-idea-for-website-mobile-presentation&psig=AOvVaw1tcMyn9pDDlmUr2kPAdGvQ&ust=1695182237602000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMDz54rktYEDFQAAAAAdAAAAABAE">
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=1380&t=st=1695096057~exp=1695096657~hmac=219b524a2a473c396db9a52fba0ac8c1aa09d39a57f932362da42f5fccc8a107">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codecx&label=Profile%20views&color=0e75b6&style=flat" alt="codecx" /> </p>
 
