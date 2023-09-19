@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codecx&label=Profile%20views&color=0e75b6&style=flat" alt="codecx" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/codeibasu](https://github.com/codeibasu)
+- 👨‍💻 All of my projects are available at [https://github.com/codeibasu](https://github.com/codecxAb)
 
 - 💬 Ask me about **numpy, pandas, sql, machine learning**
 
