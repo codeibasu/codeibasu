@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **numpy, pandas, sql, machine learning**
 
-- 📫 How to reach me **anuragbasu2911@gmail.com**
-
 - ⚡ Fun fact **When I wrote this code, only God and I understood what I did. Now only God knows**
 
 <h3 align="left">Connect with me:</h3>
